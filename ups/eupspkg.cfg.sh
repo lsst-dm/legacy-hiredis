@@ -6,7 +6,7 @@ BUILDDIR=$PWD/build
 
 build()
 {
-    cmake3
+    cmake
 }
 
 
